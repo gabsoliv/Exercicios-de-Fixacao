@@ -1,8 +1,8 @@
 # Exercicios-de-Fixacao
+
+***Exercícios elaborados pelo Professor Nélio Alves*** 
 Atividades resolvidas na linguagem JAVA 
 
-
-Exercícios elaborados pelo Professor Nélio Alves 
 
 - Ex01 - Estrutura Sequencial : Entrada de dados através da biblioteca (import java.util.Scanner;) e concatenação de vários elementos no mesmo comando de escrita através do (System.out.printf();). <br>
 Nesse programa o usuário digita dois números inteiros, e a saída do programa é mostrar a soma desses dois números.
