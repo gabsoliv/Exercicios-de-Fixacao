@@ -22,7 +22,7 @@ public class Program {
 		for (int i = 1; i <= n; i++) {
 			System.out.println("Employee #" + i + " data:");
 			System.out.print("Outsourced (y/n)? ");
-			char yesOrNo = sc.next().charAt(0);
+			char yesOrNo = sc.next().charAt(0);			
 			System.out.print("Name: ");
 			sc.nextLine();
 			String name = sc.nextLine();
